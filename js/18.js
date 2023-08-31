@@ -10,7 +10,7 @@ if(numero1 === numero2) {
 }
 
 
-
+// Para modificar un tipo de dato ya sea number o string
 if(numero1 === Number(numero2)) {
     console.log('Si!, son iguales')
 } else {
